@@ -168,7 +168,7 @@ st.title("📱 Unlock The Drop")
 
 st.write(
     """
-Take 30 seconds to get matched with
+Take 15 seconds to get matched with
 the local buzz that actually fit your taste.
 """
 )
