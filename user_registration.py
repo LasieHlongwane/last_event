@@ -313,7 +313,7 @@ Privacy Policy.
     )
 
     submitted = st.form_submit_button(
-        "📱 JOIN LOCAL ALERTS",
+        "📱 Submit",
         type="primary",
         use_container_width=True,
     )
