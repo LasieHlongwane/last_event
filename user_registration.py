@@ -164,12 +164,12 @@ CATEGORY_OPTIONS = [
 # HEADER
 # ============================================================
 
-st.title("📱 LAC Local Alerts")
+st.title("📱 Unlock The Drop")
 
 st.write(
     """
-Get local events, deals and promotions sent directly
-to your phone.
+Take 30 seconds to get matched with
+the local buzz that actually fit your taste.
 """
 )
 
