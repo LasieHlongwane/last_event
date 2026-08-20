@@ -301,11 +301,8 @@ with st.form("user_registration_form"):
 
     st.caption(
         """
-By registering, you agree that your information may be
-used to provide you with local event, deal and promotional
-notifications according to our Terms & Conditions and
-Privacy Policy.
-"""
+         agree to receive local event, deal, and promo alerts per our Privacy Policy & Terms.
+        """
     )
 
     terms_accepted = st.checkbox(
