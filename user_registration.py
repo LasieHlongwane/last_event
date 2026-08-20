@@ -164,7 +164,7 @@ CATEGORY_OPTIONS = [
 # HEADER
 # ============================================================
 
-st.title("📱 Unlock The Drop")
+st.title("📱 Stay In The Know")
 
 st.write(
     """
